@@ -63,7 +63,7 @@ Founder of <a href="https://ethical-hacking-italia.web.app/">@Ethical-Hacking-It
 <div align="center">
 
 
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurim159&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurim159&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
