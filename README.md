@@ -21,7 +21,7 @@ My interests range from front-end development and UI design to automation, scrip
 - 🐍 Writing tools and automations in Python
 - 🐚 Automating workflows with Bash
 - 🔐 Passionate about Cyber Security and Ethical Hacking
-- 🏴 Founder of **Ethical Hacking Italia**
+- 🏴 Founder of <a href="https://ethical-hacking-italia.web.app/">Ethical-Hacking-Italia</a>
 - 🚀 Always learning, building and experimenting
 
 ---
