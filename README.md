@@ -82,15 +82,8 @@ while(true){
 
 ---
 
-## 📫 Connect
-
-- GitHub: https://github.com/iurim159
-
----
-
 <div align="center">
 
 ### "Stay curious. Stay secure🔒"
 
 </div>
-- 💞️ I’m the founder of <a href="https://github.com/Ethical-Hacking-Italia/">@Ethical-Hacking-Italia</a>
